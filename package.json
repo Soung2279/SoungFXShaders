@@ -1,0 +1,21 @@
+{
+	"name": "com.soungproduct.soungfxshaders",
+	"displayName": "Soung FXShaders",
+	"description": "This plugin provides special shaders used by Unity particles Effects and other VFXs\n\nPrerequisites:\nIt requires a Universal Render Pipeline used,  version 14.0.0 or newer.\n(See https://github.com/Soung2279/Unity-Shaders-Collection)",
+	"version": "2.0.0",
+	"unity": "2022.3",
+	"author": {
+		"name": "Soung Product",
+		"email": "hirasawasu@foxmail.com",
+		"url": "https://github.com/Soung2279/"
+	},
+	"dependencies": {
+		"com.unity.render-pipelines.core": "14.0.11"
+	},
+	"keywords": [
+		"shaders",
+		"effect",
+		"particles",
+		"vfx"
+	]
+}
